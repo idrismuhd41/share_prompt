@@ -9,7 +9,7 @@ function Home() {
         <br className="max-md:hidden" />
         <p className="blue_gradient text-center">AI-Powered Prompts</p>
       </h1>
-      <p className="desc text-center">Prompt Share is an open-source AI prompting tool for modern world to discover, create and share creative propmpts</p>
+      <p className="desc text-center">Prompt Share is an open-source AI prompting tool for modern world to discover, create and share creative prompts</p>
 
       <Feed />
 
